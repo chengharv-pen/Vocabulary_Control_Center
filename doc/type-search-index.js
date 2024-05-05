@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"linkedlists","l":"DoublyLinkedList"},{"p":"mainpackage","l":"Driver"},{"p":"linkedlists","l":"SinglyLinkedList"},{"p":"mainpackage","l":"SortLetterWords"},{"p":"vocabpackage","l":"Vocab"}];updateSearchResults();
